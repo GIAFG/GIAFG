@@ -51,9 +51,8 @@ A flagship mixed-use complex in Kabul featuring residential apartments and more 
 
 📸 *Project Snapshot*  
 <p align="center">
-  <img src="https://static.wixstatic.com/media/530074_7d0aea6531fc42bcbb518e7c49c7debc~mv2.jpg/v1/fill/w_1898,h_1376,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/530074_7d0aea6531fc42bcbb518e7c49c7debc~mv2.jpg" alt="Gulbahar Investment Logo" width="230" />
+  <img src="https://static.wixstatic.com/media/530074_7d0aea6531fc42bcbb518e7c49c7debc~mv2.jpg/v1/fill/w_1898,h_1376,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/530074_7d0aea6531fc42bcbb518e7c49c7debc~mv2.jpg" alt="Gulbahar Investment Logo" width="500" />
 </p>
-> `[assets/projects/gulbahar-business-center.jpg](https://static.wixstatic.com/media/530074_7d0aea6531fc42bcbb518e7c49c7debc~mv2.jpg/v1/fill/w_1898,h_1376,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/530074_7d0aea6531fc42bcbb518e7c49c7debc~mv2.jpg)`
 
 ---
 
