@@ -109,7 +109,9 @@ Manufacturing and supply of high-quality cement and construction materials.
 ## 🔗 Quick Access
 
 - 🌐 **Website:** https://www.gi.com.af  
-- 💼 **LinkedIn:** https://www.linkedin.com/company/gulbahar-investment  
+- 💼 **LinkedIn:** https://www.linkedin.com/company/gulbahar-investment 
+- 📘 **Facebook (Gulbahar Foundation):** https://www.facebook.com/people/GulbaharFoundation/61559648262708/
+- 📘 **Facebook (Gulbahar Center):** https://www.facebook.com/GulbaharCenter  
 - 📘 **Facebook (Gulbahar Plaza):** https://www.facebook.com/p/Gulbahar-Plaza-61551371293791/  
 - 💼 **Careers:** https://www.gi.com.af/jobs  
 - 📝 **Complaints & Feedback:** https://www.gi.com.af/complaint  
