@@ -89,7 +89,7 @@ Manufacturing and supply of high-quality cement and construction materials.
 ## 📊 Organization Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulbahar-investment&show_icons=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GIAFG&show_icons=true&hide_title=true" />
 </p>
 
 <p align="center">
