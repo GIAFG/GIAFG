@@ -50,6 +50,9 @@ To be Afghanistan’s most trusted investment company, recognized for integrity,
 A flagship mixed-use complex in Kabul featuring residential apartments and more than **1,200 commercial shops**.
 
 📸 *Project Snapshot*  
+<p align="center">
+  <img src="https://static.wixstatic.com/media/530074_e7803bf7d1cf46ae9ec9ee7db565d017~mv2.jpg/v1/fill/w_422,h_246,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/99.jpg](https://static.wixstatic.com/media/530074_7d0aea6531fc42bcbb518e7c49c7debc~mv2.jpg/v1/fill/w_1898,h_1376,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/530074_7d0aea6531fc42bcbb518e7c49c7debc~mv2.jpg" alt="Gulbahar Investment Logo" width="230" />
+</p>
 > `[assets/projects/gulbahar-business-center.jpg](https://static.wixstatic.com/media/530074_7d0aea6531fc42bcbb518e7c49c7debc~mv2.jpg/v1/fill/w_1898,h_1376,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/530074_7d0aea6531fc42bcbb518e7c49c7debc~mv2.jpg)`
 
 ---
