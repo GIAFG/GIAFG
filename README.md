@@ -51,7 +51,7 @@ A flagship mixed-use complex in Kabul featuring residential apartments and more 
 
 📸 *Project Snapshot*  
 <p align="center">
-  <img src="https://static.wixstatic.com/media/530074_7d0aea6531fc42bcbb518e7c49c7debc~mv2.jpg/v1/fill/w_1898,h_1376,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/530074_7d0aea6531fc42bcbb518e7c49c7debc~mv2.jpg" alt="Gulbahar Investment Logo" width="500" />
+  <img src="https://static.wixstatic.com/media/530074_7d0aea6531fc42bcbb518e7c49c7debc~mv2.jpg/v1/fill/w_1898,h_1376,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/530074_7d0aea6531fc42bcbb518e7c49c7debc~mv2.jpg" alt="Gulbahar Center" width="500" />
 </p>
 
 ---
@@ -60,7 +60,9 @@ A flagship mixed-use complex in Kabul featuring residential apartments and more 
 Modern residential and commercial towers designed for urban living and professional environments.
 
 📸 *Project Snapshot*  
-> `assets/projects/gulbahar-towers.jpg`
+<p align="center">
+  <img src="https://static.wixstatic.com/media/530074_701f9baa3f504c3895eed246dbe4c04f~mv2.png/v1/fill/w_946,h_560,al_c,q_90,enc_avif,quality_auto/530074_701f9baa3f504c3895eed246dbe4c04f~mv2.png" alt="Gulbahar Plaza" width="500" />
+</p>
 
 ---
 
@@ -68,7 +70,9 @@ Modern residential and commercial towers designed for urban living and professio
 An upcoming commercial and residential landmark currently under development.
 
 📸 *Project Snapshot*  
-> `assets/projects/gulbahar-plaza.jpg`
+<p align="center">
+  <img src="https://static.wixstatic.com/media/530074_e66da686f00340ed9c29dce3c50e49b3~mv2.jpg/v1/fill/w_1898,h_1557,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/530074_e66da686f00340ed9c29dce3c50e49b3~mv2.jpg" alt="Gulbahar Plaza" width="500" />
+</p>
 
 ---
 
@@ -76,7 +80,9 @@ An upcoming commercial and residential landmark currently under development.
 Providing reliable and sustainable energy solutions for residential and commercial use.
 
 📸 *Project Snapshot*  
-> `assets/projects/gulbahar-power.jpg`
+<p align="center">
+  <img src="https://static.wixstatic.com/media/530074_eb18e36f706a44feaf4c473202ef504cf000.jpg/v1/fill/w_1265,h_988,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/530074_eb18e36f706a44feaf4c473202ef504cf000.jpg" alt="Gulbahar Power" width="500" />
+</p>
 
 ---
 
@@ -84,7 +90,9 @@ Providing reliable and sustainable energy solutions for residential and commerci
 Manufacturing and supply of high-quality cement and construction materials.
 
 📸 *Project Snapshot*  
-> `assets/projects/gulbahar-cement.jpg`
+<p align="center">
+  <img src="https://static.wixstatic.com/media/11062b_82db3f447bd042d1bac84a88e207ed28f000.jpg/v1/fill/w_1265,h_919,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/11062b_82db3f447bd042d1bac84a88e207ed28f000.jpg" alt="Gulbahar Cement" width="500" />
+</p>
 
 ---
 
