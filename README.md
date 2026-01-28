@@ -103,7 +103,7 @@ Manufacturing and supply of high-quality cement and construction materials.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulbahar-investment" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GIAFG" />
 </p>
 
 ## 🔗 Quick Access
